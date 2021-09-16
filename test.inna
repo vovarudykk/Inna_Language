@@ -1,0 +1,11 @@
+program nameOfProgram 
+var
+	i : int;
+	c, d : double;
+	flag : bool;
+	s : string;
+	r : real;
+begin
+	r = 0;
+	d = 1+2/r;
+end

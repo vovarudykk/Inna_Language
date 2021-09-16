@@ -1,0 +1,21 @@
+program nameOfProgram 
+var
+	i : int;
+	c, d : double;
+	flag : bool;
+	s : string;
+begin
+	s = "word";
+	input(c);
+	d = - 0.3;
+	flag = false;
+	for i = 0 to i < 10 by i = i + 1 while flag == false
+		write(i);
+		c = c + i;
+		write(c);
+		if c >= 15 then
+			write(i, flag);
+			flag = true;
+		fi
+	rof
+end
